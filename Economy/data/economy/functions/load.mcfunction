@@ -1,0 +1,1 @@
+tellraw @a {"text": "Economy is active", "color": "#0000FF"}
